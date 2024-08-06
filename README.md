@@ -1,5 +1,7 @@
 # LeetCode-Process
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions to ace the coding interview!
+
+<img width="804" alt="image" src="/process_August_2024.png">
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
