@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -46,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
