@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
+| [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
