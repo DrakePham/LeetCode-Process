@@ -1,6 +1,6 @@
 # LeetCode-Process
 A collection of LeetCode questions to ace the coding interview!
-
+A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 <img width="804" alt="image" src="/process_August_2024.png">
 
 <!---LeetCode Topics Start-->
