@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/DrakePham/LeetCode-Process/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [0623-add-one-row-to-tree](https://github.com/DrakePham/LeetCode-Process/tree/master/0623-add-one-row-to-tree) |
+| [0801-is-graph-bipartite](https://github.com/DrakePham/LeetCode-Process/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/DrakePham/LeetCode-Process/tree/master/0820-find-eventual-safe-states) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/DrakePham/LeetCode-Process/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/DrakePham/LeetCode-Process/tree/master/0310-minimum-height-trees) |
 | [0623-add-one-row-to-tree](https://github.com/DrakePham/LeetCode-Process/tree/master/0623-add-one-row-to-tree) |
+| [0801-is-graph-bipartite](https://github.com/DrakePham/LeetCode-Process/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/DrakePham/LeetCode-Process/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/DrakePham/LeetCode-Process/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/DrakePham/LeetCode-Process/tree/master/0310-minimum-height-trees) |
+| [0801-is-graph-bipartite](https://github.com/DrakePham/LeetCode-Process/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/DrakePham/LeetCode-Process/tree/master/0820-find-eventual-safe-states) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/DrakePham/LeetCode-Process/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Tree
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/DrakePham/LeetCode-Process/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
