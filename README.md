@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
