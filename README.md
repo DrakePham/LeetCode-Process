@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
+| [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
+| [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
