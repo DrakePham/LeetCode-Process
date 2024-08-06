@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
