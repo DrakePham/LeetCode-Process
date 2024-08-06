@@ -59,13 +59,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
