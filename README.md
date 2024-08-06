@@ -108,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DrakePham/LeetCode-Process/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
