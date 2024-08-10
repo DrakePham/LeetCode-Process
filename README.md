@@ -68,6 +68,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0820-find-eventual-safe-states](https://github.com/DrakePham/LeetCode-Process/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/DrakePham/LeetCode-Process/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1916-find-center-of-star-graph](https://github.com/DrakePham/LeetCode-Process/tree/master/1916-find-center-of-star-graph) |
 ## Tree
 |  |
 | ------- |
