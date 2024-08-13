@@ -177,6 +177,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -194,9 +195,14 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
