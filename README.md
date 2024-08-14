@@ -198,6 +198,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [1954-replace-all-digits-with-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1954-replace-all-digits-with-characters) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
 ## Bucket Sort
 |  |
