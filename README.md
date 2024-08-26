@@ -26,6 +26,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3194-find-words-containing-character](https://github.com/DrakePham/LeetCode-Process/tree/master/3194-find-words-containing-character) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [1954-replace-all-digits-with-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1954-replace-all-digits-with-characters) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [3194-find-words-containing-character](https://github.com/DrakePham/LeetCode-Process/tree/master/3194-find-words-containing-character) |
 ## Bucket Sort
 |  |
 | ------- |
