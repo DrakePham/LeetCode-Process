@@ -124,6 +124,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DrakePham/LeetCode-Process/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/DrakePham/LeetCode-Process/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -217,4 +218,8 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DrakePham/LeetCode-Process/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
