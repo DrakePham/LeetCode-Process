@@ -17,6 +17,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
@@ -97,6 +98,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -149,6 +151,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [2383-add-two-integers](https://github.com/DrakePham/LeetCode-Process/tree/master/2383-add-two-integers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/DrakePham/LeetCode-Process/tree/master/2619-categorize-box-according-to-criteria) |
 ## Heap (Priority Queue)
@@ -222,4 +225,12 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DrakePham/LeetCode-Process/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
