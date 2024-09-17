@@ -10,22 +10,21 @@
  */
 class Solution {
 public:
-    int isOverTen = 0;
+    
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        if (!l1 && !l2 && isOverTen != 0) return new ListNode(1);
-        else if (!l1 && !l2 && isOverTen == 0) return nullptr; 
-        int l1Val = (l1) ? l1->val : 0;
-        int l2Val = (l2) ? l2->val : 0;
-        ListNode* curNode = new ListNode();
-        
-        curNode -> val = l1Val + l2Val + isOverTen;
-        isOverTen = curNode -> val / 10;
-        curNode -> val %=10;
-        if(l1 && l2) curNode->next = addTwoNumbers(l1->next, l2->next);
-        else if (l1 && !l2) curNode->next = addTwoNumbers(l1->next, nullptr);
-        else if (!l1 && l2) curNode->next = addTwoNumbers(nullptr, l2->next);
-        
-            
-        return curNode;
+        return helper(l1, l2, 0);
+    }
+    ListNode* helper(ListNode* l1, ListNode* l2, int carry = 0){
+        if (!l1 && !l2 && carry == 0) return nullptr;
+
+        int sum = carry;
+        if (l1) { sum += l1->val; l1 = l1->next; }
+        if (l2) { sum += l2->val; l2 = l2->next; }
+
+        ListNode* node = new ListNode(sum % 10);
+        node->next = helper(l1, l2, sum / 10);
+
+        return node;
+
     }
 };
