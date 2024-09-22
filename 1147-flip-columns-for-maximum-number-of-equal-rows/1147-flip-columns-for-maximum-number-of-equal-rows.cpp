@@ -7,8 +7,9 @@ public:
             string st, ts;
             for(int j=0; j<m; j++) {
                 //aab == bba
-                st.push_back(matrix[i][j] + '0');
-                ts.push_back((1 ^ matrix[i][j]) + '0');
+                int number = matrix[i][j];
+                st += (number == 0) ? "0" : "1";
+                ts += (number == 0) ? "1" : "0";
             }
             nums[st]++;
             nums[ts]++;
