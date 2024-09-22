@@ -12,24 +12,22 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> list;
-        helper(list, root);
+        int result = -1;
 
-        
-        priority_queue<int, vector<int>, greater<int>> minHeap(list.begin(), list.end());
-
-        
-        while (--k != 0) {
-            minHeap.pop();
-        }
-
-        
-        return minHeap.top();
+        helper(root, k, result);
+        return result;
     }
-    void helper(vector<int>& list, TreeNode* node){
+
+    void helper(TreeNode* node, int& k, int& result){
         if(!node) return;
-        list.push_back(node->val);
-        helper(list, node->left);
-        helper(list, node->right);
+        helper(node->left, k, result);
+
+        if(--k == 0){
+            result = node->val;
+            return;
+        }
+        helper(node->right, k, result);
+
     }
+    
 };
