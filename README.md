@@ -32,6 +32,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DrakePham/LeetCode-Process/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/DrakePham/LeetCode-Process/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [0623-add-one-row-to-tree](https://github.com/DrakePham/LeetCode-Process/tree/master/0623-add-one-row-to-tree) |
@@ -80,11 +81,13 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DrakePham/LeetCode-Process/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DrakePham/LeetCode-Process/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/DrakePham/LeetCode-Process/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DrakePham/LeetCode-Process/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DrakePham/LeetCode-Process/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/DrakePham/LeetCode-Process/tree/master/0623-add-one-row-to-tree) |
 ## Union Find
 |  |
@@ -236,4 +239,8 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DrakePham/LeetCode-Process/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
