@@ -25,6 +25,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2102-find-the-middle-index-in-array](https://github.com/DrakePham/LeetCode-Process/tree/master/2102-find-the-middle-index-in-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -246,4 +247,8 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DrakePham/LeetCode-Process/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/DrakePham/LeetCode-Process/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
