@@ -166,6 +166,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [2383-add-two-integers](https://github.com/DrakePham/LeetCode-Process/tree/master/2383-add-two-integers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/DrakePham/LeetCode-Process/tree/master/2619-categorize-box-according-to-criteria) |
+| [3199-distribute-candies-among-children-i](https://github.com/DrakePham/LeetCode-Process/tree/master/3199-distribute-candies-among-children-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,4 +257,12 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/DrakePham/LeetCode-Process/tree/master/2102-find-the-middle-index-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/DrakePham/LeetCode-Process/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/DrakePham/LeetCode-Process/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
