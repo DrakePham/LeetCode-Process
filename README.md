@@ -30,6 +30,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DrakePham/LeetCode-Process/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/DrakePham/LeetCode-Process/tree/master/3194-find-words-containing-character) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Quickselect
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Binary Search
 |  |
 | ------- |
