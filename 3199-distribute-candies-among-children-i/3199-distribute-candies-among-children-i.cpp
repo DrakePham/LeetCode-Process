@@ -1,20 +1,15 @@
 class Solution {
 public:
     int distributeCandies(int n, int limit) {
-        int numberOfWay = 0;
-        for(int a = 0; a <= limit; a++){
-            int currentCandies = a;
-            for(int b = 0; b <= limit; b++){
-                currentCandies += b;
-                for(int c = 0; c <= limit; c++){
-                    currentCandies += c;
-                    if(currentCandies == n) numberOfWay ++;
-                    currentCandies -= c;
+        int ans = 0;
+        for (int i = 0; i <= limit; i++) {
+            for (int j = 0; j <= limit; j++) {
+                int rem = n - i - j; 
+                if (rem >= 0 && rem <= limit) {
+                    ans++; 
                 }
-                currentCandies -= b;
             }
         }
-
-        return numberOfWay;
+        return ans;
     }
 };
