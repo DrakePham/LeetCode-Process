@@ -19,6 +19,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
+| [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
@@ -194,6 +195,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+| [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 ## Randomized
 |  |
 | ------- |
@@ -271,4 +274,12 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
