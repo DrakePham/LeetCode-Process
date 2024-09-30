@@ -24,6 +24,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2102-find-the-middle-index-in-array](https://github.com/DrakePham/LeetCode-Process/tree/master/2102-find-the-middle-index-in-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/DrakePham/LeetCode-Process/tree/master/2103-find-all-groups-of-farmland) |
@@ -220,6 +221,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1954-replace-all-digits-with-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1954-replace-all-digits-with-characters) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -265,4 +267,8 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/DrakePham/LeetCode-Process/tree/master/3199-distribute-candies-among-children-i) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
