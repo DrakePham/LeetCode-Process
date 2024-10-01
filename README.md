@@ -8,6 +8,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
@@ -105,6 +106,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
