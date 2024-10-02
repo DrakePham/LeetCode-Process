@@ -114,6 +114,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Divide and Conquer
 |  |
@@ -178,6 +179,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Quickselect
 |  |
@@ -252,6 +254,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
+| [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 ## Randomized
 |  |
 | ------- |
@@ -284,4 +287,9 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
+| [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
