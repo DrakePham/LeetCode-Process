@@ -28,6 +28,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2102-find-the-middle-index-in-array](https://github.com/DrakePham/LeetCode-Process/tree/master/2102-find-the-middle-index-in-array) |
@@ -134,6 +135,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Counting
@@ -160,6 +162,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
