@@ -26,6 +26,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -113,6 +114,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
@@ -139,6 +141,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1954-replace-all-digits-with-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1954-replace-all-digits-with-characters) |
