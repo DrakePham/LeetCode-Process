@@ -160,6 +160,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0061-rotate-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DrakePham/LeetCode-Process/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
@@ -242,6 +243,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/DrakePham/LeetCode-Process/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0680-valid-palindrome-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
