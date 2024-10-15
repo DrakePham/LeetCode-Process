@@ -22,28 +22,24 @@ public:
     }
 
     bool validWordAbbreviation(string word, string abbr) {
-        word += 'a';
-        abbr += 'a';
         int indexAbbr = 0;
         int indexWord = 0;
         int lengthWord = word.length();
         int lengthAbbr = abbr.length();
-        while(indexAbbr < lengthAbbr || indexWord < lengthWord){
-            int number = 0;
+        while(indexAbbr < lengthAbbr && indexWord < lengthWord){
             if(isDigit(abbr, indexAbbr)) {
                 if(isLeadingZero(abbr, indexAbbr)) return false;
-                number = getNumber(abbr, indexAbbr);
+                int number = getNumber(abbr, indexAbbr);
+                indexWord += number;
             }
-            indexWord += number;
             if(indexWord < lengthWord && indexAbbr < lengthAbbr && word[indexWord] == abbr[indexAbbr]){
                 indexAbbr++;
                 indexWord++;
                 continue;
-            }else{
-                return false;
-            }
+            }else if(indexAbbr == lengthAbbr && indexWord == lengthWord) return true;
+            else return false;
 
         }
-        return true;
+        return indexAbbr == lengthAbbr && indexWord == lengthWord;
     }
 };
