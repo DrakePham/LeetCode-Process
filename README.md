@@ -17,6 +17,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
@@ -141,6 +142,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/DrakePham/LeetCode-Process/tree/master/0778-reorganize-string) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
