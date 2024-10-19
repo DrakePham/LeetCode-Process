@@ -12,15 +12,12 @@ public:
             int currentEndTime = intervals[i][1];
             int currentStartTime = intervals[i][0];
             int soonestEndTime = minHeap.top();
-            
             if(soonestEndTime <= currentStartTime){
-                minHeap.pop();
-                minHeap.push(currentEndTime);
+                minHeap.pop(); 
             }else{
                 neededMeetingRoom += 1;
-                cout<<currentStartTime<<"-"<<soonestEndTime<<endl;
-                minHeap.push(currentEndTime);
             }
+            minHeap.push(currentEndTime);
         }
         return neededMeetingRoom;
     }
