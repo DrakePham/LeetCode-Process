@@ -4,7 +4,7 @@ public:
         int firstListLength = firstList.size();
         int secondListLength = secondList.size();
         
-        if(firstListLength == 0 || secondListLength == 0) return {};
+        // if(firstListLength == 0 || secondListLength == 0) return {};
 
 
         
@@ -16,27 +16,15 @@ public:
             int currentFirstListEnd = firstList[p1][1];
             int currentSecondListStart = secondList[p2][0];
             int currentSecondListEnd = secondList[p2][1];
-            cout<<currentFirstListStart<<currentSecondListStart<<endl;
-            cout<<currentFirstListEnd<<currentSecondListEnd<<endl;
 
-            if(currentFirstListEnd < currentSecondListStart){
-                p1++;
-            }else if(currentSecondListEnd < currentFirstListStart){
-                p2++;
-            }else if(currentFirstListStart <= currentSecondListStart && currentFirstListEnd <= currentSecondListEnd){
-                result.push_back({currentSecondListStart, currentFirstListEnd});
-                p1++;
+            if(currentFirstListStart <= currentSecondListEnd && currentSecondListStart <= currentFirstListEnd){
+                result.push_back({max(currentFirstListStart, currentSecondListStart), min(currentFirstListEnd, currentSecondListEnd)});
             }
-            else if(currentFirstListStart <= currentSecondListStart && currentFirstListEnd > currentSecondListEnd){
-                result.push_back({currentSecondListStart, currentSecondListEnd});
-                p2++;
-            }else if(currentFirstListStart > currentSecondListStart && currentFirstListEnd <= currentSecondListEnd){
-                result.push_back({currentFirstListStart, currentFirstListEnd});
+            if(currentFirstListEnd < currentSecondListEnd){
                 p1++;
             }else{
-                result.push_back({currentFirstListStart, currentSecondListEnd});
                 p2++;
-            }   
+            }
         }
 
         return result;
