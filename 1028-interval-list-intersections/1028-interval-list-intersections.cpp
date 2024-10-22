@@ -3,14 +3,10 @@ public:
     vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList, vector<vector<int>>& secondList) {
         int firstListLength = firstList.size();
         int secondListLength = secondList.size();
-        
-        // if(firstListLength == 0 || secondListLength == 0) return {};
-
-
-        
         int p1 = 0;
         int p2 = 0;
         vector<vector<int>> result;
+        
         while(p1 < firstListLength && p2 < secondListLength){
             int currentFirstListStart = firstList[p1][0];
             int currentFirstListEnd = firstList[p1][1];
