@@ -252,6 +252,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DrakePham/LeetCode-Process/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -268,6 +269,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0680-valid-palindrome-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/DrakePham/LeetCode-Process/tree/master/0778-reorganize-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DrakePham/LeetCode-Process/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
