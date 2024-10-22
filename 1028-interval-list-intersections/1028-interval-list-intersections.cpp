@@ -23,13 +23,9 @@ public:
 
             if(currentFirstListEnd < currentSecondListStart){
                 p1++;
-                continue;
             }else if(currentSecondListEnd < currentFirstListStart){
                 p2++;
-                continue;
-            }
-            
-            if(currentFirstListStart <= currentSecondListStart && currentFirstListEnd <= currentSecondListEnd){
+            }else if(currentFirstListStart <= currentSecondListStart && currentFirstListEnd <= currentSecondListEnd){
                 result.push_back({currentSecondListStart, currentFirstListEnd});
                 p1++;
             }
