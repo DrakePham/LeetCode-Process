@@ -198,6 +198,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
+| [0670-maximum-swap](https://github.com/DrakePham/LeetCode-Process/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
 | [2383-add-two-integers](https://github.com/DrakePham/LeetCode-Process/tree/master/2383-add-two-integers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/DrakePham/LeetCode-Process/tree/master/2619-categorize-box-according-to-criteria) |
@@ -295,6 +296,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
+| [0670-maximum-swap](https://github.com/DrakePham/LeetCode-Process/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/DrakePham/LeetCode-Process/tree/master/0778-reorganize-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
