@@ -7,8 +7,6 @@ public:
         if(firstListLength == 0 || secondListLength == 0) return {};
 
 
-        sort(firstList.begin(), firstList.end());
-        sort(secondList.begin(), secondList.begin());
         
         int p1 = 0;
         int p2 = 0;
