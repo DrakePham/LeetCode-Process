@@ -21,6 +21,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+| [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
@@ -311,6 +312,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Design
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 | [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
@@ -354,9 +356,14 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
 | [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 ## Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DrakePham/LeetCode-Process/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
