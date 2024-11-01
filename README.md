@@ -31,6 +31,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
+| [1019-squares-of-a-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/DrakePham/LeetCode-Process/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/DrakePham/LeetCode-Process/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/DrakePham/LeetCode-Process/tree/master/1039-find-the-town-judge) |
@@ -153,6 +154,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/DrakePham/LeetCode-Process/tree/master/0778-reorganize-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/DrakePham/LeetCode-Process/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -185,6 +187,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0408-valid-word-abbreviation](https://github.com/DrakePham/LeetCode-Process/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/DrakePham/LeetCode-Process/tree/master/1028-interval-list-intersections) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/DrakePham/LeetCode-Process/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
