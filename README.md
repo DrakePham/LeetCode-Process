@@ -39,6 +39,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DrakePham/LeetCode-Process/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
+| [1582-design-browser-history](https://github.com/DrakePham/LeetCode-Process/tree/master/1582-design-browser-history) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1909-buildings-with-an-ocean-view](https://github.com/DrakePham/LeetCode-Process/tree/master/1909-buildings-with-an-ocean-view) |
 | [2102-find-the-middle-index-in-array](https://github.com/DrakePham/LeetCode-Process/tree/master/2102-find-the-middle-index-in-array) |
@@ -174,6 +175,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0061-rotate-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
+| [1582-design-browser-history](https://github.com/DrakePham/LeetCode-Process/tree/master/1582-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/DrakePham/LeetCode-Process/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1582-design-browser-history](https://github.com/DrakePham/LeetCode-Process/tree/master/1582-design-browser-history) |
 | [1909-buildings-with-an-ocean-view](https://github.com/DrakePham/LeetCode-Process/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
@@ -318,6 +321,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
+| [1582-design-browser-history](https://github.com/DrakePham/LeetCode-Process/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 ## Randomized
 |  |
@@ -360,6 +364,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
+| [1582-design-browser-history](https://github.com/DrakePham/LeetCode-Process/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/DrakePham/LeetCode-Process/tree/master/2161-stock-price-fluctuation) |
 ## Bitmask
 |  |
@@ -369,4 +374,8 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/DrakePham/LeetCode-Process/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
