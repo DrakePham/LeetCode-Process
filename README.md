@@ -208,6 +208,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/DrakePham/LeetCode-Process/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/DrakePham/LeetCode-Process/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
@@ -249,6 +250,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DrakePham/LeetCode-Process/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DrakePham/LeetCode-Process/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
@@ -318,6 +320,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0002-add-two-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DrakePham/LeetCode-Process/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/DrakePham/LeetCode-Process/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
