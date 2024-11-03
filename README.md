@@ -195,6 +195,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1028-interval-list-intersections](https://github.com/DrakePham/LeetCode-Process/tree/master/1028-interval-list-intersections) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/DrakePham/LeetCode-Process/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1894-merge-strings-alternately](https://github.com/DrakePham/LeetCode-Process/tree/master/1894-merge-strings-alternately) |
 ## Merge Sort
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1524-string-matching-in-an-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1894-merge-strings-alternately](https://github.com/DrakePham/LeetCode-Process/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1954-replace-all-digits-with-characters) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3194-find-words-containing-character](https://github.com/DrakePham/LeetCode-Process/tree/master/3194-find-words-containing-character) |
