@@ -21,6 +21,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/DrakePham/LeetCode-Process/tree/master/0346-moving-average-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/DrakePham/LeetCode-Process/tree/master/0348-design-tic-tac-toe) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DrakePham/LeetCode-Process/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -249,6 +250,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -264,6 +266,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DrakePham/LeetCode-Process/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
