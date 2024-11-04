@@ -14,8 +14,7 @@ public:
                 result = max(result, index + 1);
             }
         }
-
-        return result;
+        return dp.size();
     }
 };
 
