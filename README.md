@@ -13,6 +13,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/DrakePham/LeetCode-Process/tree/master/0163-missing-ranges) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
@@ -252,6 +253,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0162-find-peak-element) |
 | [0270-closest-binary-search-tree-value](https://github.com/DrakePham/LeetCode-Process/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
