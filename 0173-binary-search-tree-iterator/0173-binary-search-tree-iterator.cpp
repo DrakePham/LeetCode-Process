@@ -27,7 +27,6 @@ public:
     
     int next() {
         int lengthOfArray = list.size();
-        if(currentIndex >= lengthOfArray) return list[lengthOfArray - 1];
         currentIndex += 1;
         return list[currentIndex - 1];
     }
