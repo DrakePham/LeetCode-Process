@@ -135,6 +135,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0246-strobogrammatic-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/DrakePham/LeetCode-Process/tree/master/0266-palindrome-permutation) |
 | [0348-design-tic-tac-toe](https://github.com/DrakePham/LeetCode-Process/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DrakePham/LeetCode-Process/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
@@ -266,6 +267,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DrakePham/LeetCode-Process/tree/master/0231-power-of-two) |
+| [0266-palindrome-permutation](https://github.com/DrakePham/LeetCode-Process/tree/master/0266-palindrome-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DrakePham/LeetCode-Process/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
@@ -303,6 +305,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0125-valid-palindrome](https://github.com/DrakePham/LeetCode-Process/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0246-strobogrammatic-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/DrakePham/LeetCode-Process/tree/master/0266-palindrome-permutation) |
 | [0408-valid-word-abbreviation](https://github.com/DrakePham/LeetCode-Process/tree/master/0408-valid-word-abbreviation) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0680-valid-palindrome-ii) |
