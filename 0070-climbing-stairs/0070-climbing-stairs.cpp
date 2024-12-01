@@ -1,22 +1,38 @@
 class Solution {
 public:
-    int t[46]={0};
     int climbStairs(int n) {
-        if(n==1) {t[n]=1; return 1;}
-        if(n==2) {t[n]=2; return 2;}
-        else if(t[n]!=0) return t[n];
-        t[n] = climbStairs(n-1)+climbStairs(n-2);
-        return t[n];
+        if(n == 1) return 1;
+        if(n == 2) return 2; 
+       vector<int> dp(n + 1, 0);
+       
+       dp[1] = 1;
+       dp[2] = 2;
+
+       for(int i = 3 ; i <= n ; i++){
+            dp[i] = dp[i-1] + dp[i - 2];
+       
+       }
+       return dp[n];
     }
+
+    
 };
 
-// understand:
-// 1 return 1
-// 2 return 2
+/*
+dp[i] is the number of distinct to climb to the i stage
 
-// match
-// recursion
+dp[1] = 1
+dp[2] = 2
+dp[3] = 3 = dp[2] +dp[1]
+dp[4] = dp[3] + dp[2] = 5
+1111
+121
+211
 
-// plan for recursion:
-// we see that n value = (n-1) value + (n-2) value
+112
+22
 
+
+
+
+*/
