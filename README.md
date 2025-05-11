@@ -136,6 +136,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DrakePham/LeetCode-Process/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/DrakePham/LeetCode-Process/tree/master/0266-palindrome-permutation) |
 | [0348-design-tic-tac-toe](https://github.com/DrakePham/LeetCode-Process/tree/master/0348-design-tic-tac-toe) |
@@ -166,6 +167,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DrakePham/LeetCode-Process/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
@@ -307,6 +309,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/DrakePham/LeetCode-Process/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/DrakePham/LeetCode-Process/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/DrakePham/LeetCode-Process/tree/master/0266-palindrome-permutation) |
 | [0408-valid-word-abbreviation](https://github.com/DrakePham/LeetCode-Process/tree/master/0408-valid-word-abbreviation) |
