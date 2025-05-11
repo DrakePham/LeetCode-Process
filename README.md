@@ -19,6 +19,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
@@ -134,6 +135,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0001-two-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
 | [0246-strobogrammatic-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/DrakePham/LeetCode-Process/tree/master/0266-palindrome-permutation) |
 | [0348-design-tic-tac-toe](https://github.com/DrakePham/LeetCode-Process/tree/master/0348-design-tic-tac-toe) |
@@ -163,6 +165,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DrakePham/LeetCode-Process/tree/master/0451-sort-characters-by-frequency) |
