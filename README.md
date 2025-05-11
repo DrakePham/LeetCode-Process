@@ -9,6 +9,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/DrakePham/LeetCode-Process/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
@@ -133,6 +134,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/DrakePham/LeetCode-Process/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
@@ -161,6 +163,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DrakePham/LeetCode-Process/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DrakePham/LeetCode-Process/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0169-majority-element) |
@@ -307,6 +310,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/DrakePham/LeetCode-Process/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DrakePham/LeetCode-Process/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/DrakePham/LeetCode-Process/tree/master/0242-valid-anagram) |
