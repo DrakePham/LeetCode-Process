@@ -21,6 +21,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DrakePham/LeetCode-Process/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/DrakePham/LeetCode-Process/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/DrakePham/LeetCode-Process/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
@@ -379,6 +380,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DrakePham/LeetCode-Process/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/DrakePham/LeetCode-Process/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DrakePham/LeetCode-Process/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
