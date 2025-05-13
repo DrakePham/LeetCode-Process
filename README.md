@@ -14,6 +14,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DrakePham/LeetCode-Process/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/DrakePham/LeetCode-Process/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DrakePham/LeetCode-Process/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -288,6 +289,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0022-generate-parentheses](https://github.com/DrakePham/LeetCode-Process/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DrakePham/LeetCode-Process/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DrakePham/LeetCode-Process/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DrakePham/LeetCode-Process/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
