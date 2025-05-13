@@ -1,22 +1,19 @@
 class Solution {
 public:
-    void processInput(string& s){
-        string temp;
-        for(auto& c:s){
-            if(isalnum(c)) temp += tolower(c);
+    string modifyInput(string s){
+        string modifiedString = "";
+        for(auto c:s){
+            if(isalnum(c)) modifiedString += tolower(c);
         }
-        s = temp;
+        return modifiedString;
     }
     bool isPalindrome(string s) {
-        processInput(s);
-        int left = 0;
-        int right = s.length() - 1;
-        while(left <= right){
-            char leftCh = s[left];
-            char rightCh = s[right];
-            if(leftCh != rightCh) return false;
-            left++;
-            right--;
+        string modifiedString = modifyInput(s);
+        int l = modifiedString.length();
+        for(int i = 0 ; i < l/2; i++){
+            if(modifiedString[i] != modifiedString[l - 1 - i]){
+                return false;
+            }
         }
         return true;
     }
