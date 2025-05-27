@@ -4,7 +4,6 @@ public:
         int divisibleNumber = n/m;
         int num2 = m*(1+divisibleNumber)*divisibleNumber/2;
         int sumAllNumber = (n+1)*n/2;
-        if(m == 1) return -sumAllNumber;
         return sumAllNumber - 2*num2;
     }
 };
