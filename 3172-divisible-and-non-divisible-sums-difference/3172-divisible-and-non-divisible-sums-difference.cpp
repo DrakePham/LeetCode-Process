@@ -2,9 +2,12 @@ class Solution {
 public:
     int differenceOfSums(int n, int m) {
         int divisibleNumber = n/m;
-        int num2 = m*(1+divisibleNumber)*divisibleNumber/2;
-        int sumAllNumber = (n+1)*n/2;
+        int num2 = m*sumFrom1toN(divisibleNumber);
+        int sumAllNumber = sumFrom1toN(n);
         return sumAllNumber - 2*num2;
+    }
+    int sumFrom1toN(int n){
+        return (n+1)*n/2;
     }
 };
 
