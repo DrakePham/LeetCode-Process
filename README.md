@@ -339,6 +339,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DrakePham/LeetCode-Process/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/DrakePham/LeetCode-Process/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/DrakePham/LeetCode-Process/tree/master/1954-replace-all-digits-with-characters) |
+| [2365-percentage-of-letter-in-string](https://github.com/DrakePham/LeetCode-Process/tree/master/2365-percentage-of-letter-in-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/DrakePham/LeetCode-Process/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3194-find-words-containing-character](https://github.com/DrakePham/LeetCode-Process/tree/master/3194-find-words-containing-character) |
 ## Bucket Sort
