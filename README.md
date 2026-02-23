@@ -35,6 +35,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/DrakePham/LeetCode-Process/tree/master/0560-subarray-sum-equals-k) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DrakePham/LeetCode-Process/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/DrakePham/LeetCode-Process/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
@@ -278,6 +279,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0270-closest-binary-search-tree-value](https://github.com/DrakePham/LeetCode-Process/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/DrakePham/LeetCode-Process/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/DrakePham/LeetCode-Process/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
