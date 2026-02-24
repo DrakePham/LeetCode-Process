@@ -13,6 +13,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DrakePham/LeetCode-Process/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DrakePham/LeetCode-Process/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0162-find-peak-element) |
@@ -78,6 +79,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | ------- |
 | [0054-spiral-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DrakePham/LeetCode-Process/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/DrakePham/LeetCode-Process/tree/master/0200-number-of-islands) |
 | [0348-design-tic-tac-toe](https://github.com/DrakePham/LeetCode-Process/tree/master/0348-design-tic-tac-toe) |
 | [0419-battleships-in-a-board](https://github.com/DrakePham/LeetCode-Process/tree/master/0419-battleships-in-a-board) |
@@ -274,6 +276,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/DrakePham/LeetCode-Process/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DrakePham/LeetCode-Process/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/DrakePham/LeetCode-Process/tree/master/0270-closest-binary-search-tree-value) |
