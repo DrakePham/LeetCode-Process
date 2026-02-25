@@ -40,6 +40,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/DrakePham/LeetCode-Process/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/DrakePham/LeetCode-Process/tree/master/0777-toeplitz-matrix) |
+| [0875-koko-eating-bananas](https://github.com/DrakePham/LeetCode-Process/tree/master/0875-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
 | [1019-squares-of-a-sorted-array](https://github.com/DrakePham/LeetCode-Process/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/DrakePham/LeetCode-Process/tree/master/1028-interval-list-intersections) |
@@ -284,6 +285,7 @@ A leetcode profile: [click here](https://leetcode.com/u/phamminhthong21/)
 | [0300-longest-increasing-subsequence](https://github.com/DrakePham/LeetCode-Process/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/DrakePham/LeetCode-Process/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/DrakePham/LeetCode-Process/tree/master/0729-my-calendar-i) |
+| [0875-koko-eating-bananas](https://github.com/DrakePham/LeetCode-Process/tree/master/0875-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/DrakePham/LeetCode-Process/tree/master/0912-random-pick-with-weight) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DrakePham/LeetCode-Process/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
